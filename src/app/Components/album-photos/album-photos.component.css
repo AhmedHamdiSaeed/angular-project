@@ -1,0 +1,15 @@
+.photo{width: 25%;}
+*{margin-bottom: 0;}
+.userDetails .details .name{
+    font-size: 30px;
+    font-weight: bold;}
+img{
+    width: 100%;
+}
+.container{
+    justify-content: flex-start;
+    column-gap: 10px;
+    row-gap: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 10px;}
